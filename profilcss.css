@@ -1,0 +1,51 @@
+.se {
+    background-image: url(visi.jpeg);
+    background-size: calc(800px);
+}
+
+
+h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 33px;
+    margin-left: 20px;
+}
+i {
+    font-style: italic;
+}
+
+td p1 {
+     margin-left: 20px;
+     color: #000000;
+     margin-left: 50%px;
+}
+
+p2 {
+    color: #ffb900;
+    margin-left: 20px;
+}
+
+p3 {
+    margin-left: 38px;
+}
+.fa-check-double {
+    color: #ffb900;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 17px;
+}

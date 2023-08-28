@@ -1,0 +1,45 @@
+.contain {
+    margin: 0 auto;
+    
+    background-color: #b2bac7;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: block;
+    max-width: 100%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+  
+
+  textarea {
+    width: 100%;
+  }
+  
+  input[type="submit"] {
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-left: 40%;
+      
+  }
+
+  
+  .tes {
+      text-align: center;
+      background-color: #8bb0e9;
+      font-size: 25px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  input[type="submit"]:hover {
+      background-color: #0056b3;
+  }
+  
+  td label {
+    font-size: 17px;
+  }
